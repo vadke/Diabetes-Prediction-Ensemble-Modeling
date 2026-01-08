@@ -18,6 +18,8 @@ This project focuses on **Model Selection** and **Ensemble Techniques**.
 2.  **Feature Importance:** `Glucose` concentration was the single most predictive feature, followed by `BMI` and `Age`.
 3.  **Model Stability:** The **Voting Classifier** provided a balanced trade-off between sensitivity (catching cases) and specificity (reducing false alarms).
 
+<img width="805" height="484" alt="image" src="https://github.com/user-attachments/assets/8f24ba92-5444-4266-bab0-40b6a8d6fb6f" />
+
 ## 🛠 Tools Used
 * **Python:** Scikit-Learn, XGBoost, Pandas
 * **Visualization:** Seaborn Heatmaps (Model Comparison Matrix)
